@@ -1,0 +1,13 @@
+.card img{
+    width: 300px;
+    height: auto;
+}
+
+.card{
+    width: 300px;
+}
+
+.card:hover{
+    background-color: #383838;
+    cursor: pointer;
+}
